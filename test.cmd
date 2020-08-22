@@ -3,6 +3,7 @@ setlocal
 
 :: # Test instructions
 :: 1. Set the release name (set release=$name)
+:: 2. Run `test`
 
 set release=monaco
 

@@ -3,8 +3,9 @@ setlocal
 
 :: # Build instructions
 :: 1. Set the version number (set v=$version)
-:: 2. Build the project with x64 Release config in Visual Studio
-:: 3. Copy sassc.exe into the respective directory
+:: 2. Run `prepare`
+:: 3. Build the project with x64 Release config in Visual Studio
+:: 4. Copy sassc.exe into the respective directory
 
 set v=3.6.1
 
